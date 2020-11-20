@@ -5,7 +5,7 @@
 We are a *small, independent* game developement group. We idealize *clean mechanics*, *interesting gameplay*,
 and *inventive ideas*. Our skillset may be limited, but our imaginations are not.
 
-[**Our Projects**](https://kyllingene.github.io/Class_Action/games_list.md)
+[**Our Projects**](https://kyllingene.github.io/Class_Action/games_list)
 
 ### Contact Us
 
