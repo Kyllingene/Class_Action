@@ -2,7 +2,7 @@
 
 ---
 [***Main Page***](https://kyllingene.github.io/Class_Action)
----
+--
 
 ### [Negative Zero](https://kyllingene.github.io/Negative_Zero) (INDEV)
 
