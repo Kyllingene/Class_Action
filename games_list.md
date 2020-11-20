@@ -1,3 +1,7 @@
+layout: page
+title: "Class Action | Games"
+permalink: /games/
+
 # Class Action Games
 
 ---
